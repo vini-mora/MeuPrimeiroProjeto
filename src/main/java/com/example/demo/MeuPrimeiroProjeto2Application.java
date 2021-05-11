@@ -9,6 +9,7 @@ public class MeuPrimeiroProjeto2Application {
 	public static void main(String[] args) {
 		SpringApplication.run(MeuPrimeiroProjeto2Application.class, args);
 		
+		System.out.println("neymar é foda");
 		
 		
 	}
